@@ -1,18 +1,11 @@
 package code;
 import image.APImage;
 import image.Pixel;
-
-
-
 import javax.imageio.ImageIO;
-import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 import java.awt.Color;
 import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
-import javax.imageio.ImageIO;
 
 public class ImageManipulation {
 
