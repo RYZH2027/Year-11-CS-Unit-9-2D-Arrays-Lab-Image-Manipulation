@@ -1,5 +1,4 @@
 package code;
-
 import image.APImage;
 import image.Pixel;
 
