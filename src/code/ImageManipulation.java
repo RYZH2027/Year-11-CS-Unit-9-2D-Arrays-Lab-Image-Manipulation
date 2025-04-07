@@ -31,12 +31,14 @@ public class ImageManipulation {
 
 //        CHALLENGE 2
 //        blackAndWhite(pathOfFile);
-
-//        CHALLENGE 3
+//.       Challenge 3
+//        int threshold = 30; // Adjust threshold as needed meaning that a lower threshold will record more edges
+//        edgeDetection(pathOfFile, threshold);
+       // CHALLENGE 4
 //        reflectImage(pathOfFile);
+        //Challenge 5
+        rotateImage(pathOfFile);
 
-        int threshold = 30; // Adjust threshold as needed meaning that a lower threshold will record more edges
-        edgeDetection(pathOfFile, threshold);
 
 
 
