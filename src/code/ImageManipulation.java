@@ -15,6 +15,7 @@ public class ImageManipulation {
      */
     public static void main(String[] args) {
         String pathOfFile = "cyberpunk2077.jpg";
+        int threshold = 35;
 //        APImage image = new APImage(pathOfFile);
 
 //        CHALLENGE 0: Display Image
@@ -27,11 +28,11 @@ public class ImageManipulation {
 //        blackAndWhite(pathOfFile);
 //.       Challenge 3
 //        int threshold = 30; // Adjust threshold as needed meaning that a lower threshold will record more edges
-//        edgeDetection(pathOfFile, threshold);
+        edgeDetection(pathOfFile, threshold);
        // CHALLENGE 4
 //        reflectImage(pathOfFile);
         //Challenge 5
-        rotateImage(pathOfFile);
+//        rotateImage(pathOfFile);
 
 
 
